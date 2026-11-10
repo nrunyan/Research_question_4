@@ -1,0 +1,424 @@
+{
+  "ecommerce": [
+    {
+      "domain": "amazon.com",
+      "rank": 29
+    }
+  ],
+  "email_communication": [
+    {
+      "domain": "mail.ru",
+      "rank": 28
+    },
+    {
+      "domain": "office.com",
+      "rank": 31
+    },
+    {
+      "domain": "live.com",
+      "rank": 34
+    },
+    {
+      "domain": "icloud.com",
+      "rank": 56
+    },
+    {
+      "domain": "skype.com",
+      "rank": 73
+    }
+  ],
+  "financial": [
+    {
+      "domain": "shiabank.com",
+      "rank": 30
+    }
+  ],
+  "gaming": [
+    {
+      "domain": "roblox.com",
+      "rank": 80
+    },
+    {
+      "domain": "epicgames.com",
+      "rank": 83
+    }
+  ],
+  "infrastructure": [
+    {
+      "domain": "amazonaws.com",
+      "rank": 4
+    },
+    {
+      "domain": "fbcdn.net",
+      "rank": 6
+    },
+    {
+      "domain": "googleapis.com",
+      "rank": 8
+    },
+    {
+      "domain": "gstatic.com",
+      "rank": 9
+    },
+    {
+      "domain": "akamai.net",
+      "rank": 13
+    },
+    {
+      "domain": "akamaiedge.net",
+      "rank": 15
+    },
+    {
+      "domain": "akadns.net",
+      "rank": 21
+    },
+    {
+      "domain": "googletagmanager.com",
+      "rank": 24
+    },
+    {
+      "domain": "cloudfront.net",
+      "rank": 27
+    },
+    {
+      "domain": "trafficmanager.net",
+      "rank": 37
+    },
+    {
+      "domain": "fastly.net",
+      "rank": 40
+    },
+    {
+      "domain": "apple-dns.net",
+      "rank": 42
+    },
+    {
+      "domain": "office.net",
+      "rank": 46
+    },
+    {
+      "domain": "pv-cdn.net",
+      "rank": 49
+    },
+    {
+      "domain": "googleusercontent.com",
+      "rank": 50
+    },
+    {
+      "domain": "doubleclick.net",
+      "rank": 51
+    },
+    {
+      "domain": "googlesyndication.com",
+      "rank": 53
+    },
+    {
+      "domain": "windows.net",
+      "rank": 55
+    },
+    {
+      "domain": "cloudflare.net",
+      "rank": 58
+    },
+    {
+      "domain": "microsoftonline.com",
+      "rank": 66
+    },
+    {
+      "domain": "edgekey.net",
+      "rank": 74
+    },
+    {
+      "domain": "tiktokcdn.com",
+      "rank": 76
+    },
+    {
+      "domain": "a2z.com",
+      "rank": 79
+    },
+    {
+      "domain": "b-cdn.net",
+      "rank": 82
+    },
+    {
+      "domain": "cdn77.org",
+      "rank": 95
+    },
+    {
+      "domain": "akam.net",
+      "rank": 97
+    }
+  ],
+  "reference_education": [
+    {
+      "domain": "wikipedia.org",
+      "rank": 38
+    }
+  ],
+  "search": [
+    {
+      "domain": "google.com",
+      "rank": 1
+    },
+    {
+      "domain": "bing.com",
+      "rank": 47
+    },
+    {
+      "domain": "yahoo.com",
+      "rank": 69
+    },
+    {
+      "domain": "baidu.com",
+      "rank": 91
+    }
+  ],
+  "social": [
+    {
+      "domain": "facebook.com",
+      "rank": 5
+    },
+    {
+      "domain": "instagram.com",
+      "rank": 14
+    },
+    {
+      "domain": "twitter.com",
+      "rank": 16
+    },
+    {
+      "domain": "linkedin.com",
+      "rank": 17
+    },
+    {
+      "domain": "x.com",
+      "rank": 48
+    },
+    {
+      "domain": "pinterest.com",
+      "rank": 54
+    },
+    {
+      "domain": "tiktok.com",
+      "rank": 62
+    },
+    {
+      "domain": "whatsapp.com",
+      "rank": 67
+    },
+    {
+      "domain": "qq.com",
+      "rank": 92
+    }
+  ],
+  "streaming_media": [
+    {
+      "domain": "youtube.com",
+      "rank": 10
+    },
+    {
+      "domain": "googlevideo.com",
+      "rank": 23
+    },
+    {
+      "domain": "netflix.com",
+      "rank": 43
+    },
+    {
+      "domain": "spotify.com",
+      "rank": 77
+    },
+    {
+      "domain": "amazonvideo.com",
+      "rank": 81
+    },
+    {
+      "domain": "vimeo.com",
+      "rank": 87
+    }
+  ],
+  "tech_software": [
+    {
+      "domain": "cloudflare.com",
+      "rank": 2
+    },
+    {
+      "domain": "microsoft.com",
+      "rank": 11
+    },
+    {
+      "domain": "apple.com",
+      "rank": 12
+    },
+    {
+      "domain": "github.com",
+      "rank": 33
+    },
+    {
+      "domain": "zoom.us",
+      "rank": 61
+    },
+    {
+      "domain": "adobe.com",
+      "rank": 63
+    },
+    {
+      "domain": "wordpress.org",
+      "rank": 68
+    },
+    {
+      "domain": "mozilla.org",
+      "rank": 93
+    },
+    {
+      "domain": "wordpress.com",
+      "rank": 100
+    }
+  ],
+  "uncategorized": [
+    {
+      "domain": "ezviz7.com",
+      "rank": 3
+    },
+    {
+      "domain": "hicloudcam.com",
+      "rank": 7
+    },
+    {
+      "domain": "azure.com",
+      "rank": 18
+    },
+    {
+      "domain": "triplinkintl.com",
+      "rank": 19
+    },
+    {
+      "domain": "gwfb.net",
+      "rank": 20
+    },
+    {
+      "domain": "domaincontrol.com",
+      "rank": 22
+    },
+    {
+      "domain": "appsflyersdk.com",
+      "rank": 25
+    },
+    {
+      "domain": "gtld-servers.net",
+      "rank": 26
+    },
+    {
+      "domain": "sharepoint.com",
+      "rank": 32
+    },
+    {
+      "domain": "aaplimg.com",
+      "rank": 35
+    },
+    {
+      "domain": "lsrelayaccess.com",
+      "rank": 36
+    },
+    {
+      "domain": "dzen.ru",
+      "rank": 39
+    },
+    {
+      "domain": "cloud.microsoft",
+      "rank": 41
+    },
+    {
+      "domain": "w2rt6byl5nf1opmc-a.com",
+      "rank": 44
+    },
+    {
+      "domain": "whatsapp.net",
+      "rank": 45
+    },
+    {
+      "domain": "youtu.be",
+      "rank": 52
+    },
+    {
+      "domain": "myfritz.net",
+      "rank": 57
+    },
+    {
+      "domain": "goo.gl",
+      "rank": 59
+    },
+    {
+      "domain": "h264.io",
+      "rank": 60
+    },
+    {
+      "domain": "gandi.net",
+      "rank": 64
+    },
+    {
+      "domain": "windowsupdate.com",
+      "rank": 65
+    },
+    {
+      "domain": "googledomains.com",
+      "rank": 70
+    },
+    {
+      "domain": "gvt1.com",
+      "rank": 71
+    },
+    {
+      "domain": "wa.me",
+      "rank": 72
+    },
+    {
+      "domain": "digicert.com",
+      "rank": 75
+    },
+    {
+      "domain": "opera.com",
+      "rank": 78
+    },
+    {
+      "domain": "tiktokv.com",
+      "rank": 84
+    },
+    {
+      "domain": "ntp.org",
+      "rank": 85
+    },
+    {
+      "domain": "workers.dev",
+      "rank": 86
+    },
+    {
+      "domain": "3gppnetwork.org",
+      "rank": 88
+    },
+    {
+      "domain": "aws.dev",
+      "rank": 89
+    },
+    {
+      "domain": "blogspot.com",
+      "rank": 90
+    },
+    {
+      "domain": "nginx.org",
+      "rank": 94
+    },
+    {
+      "domain": "msn.com",
+      "rank": 96
+    },
+    {
+      "domain": "f5.com",
+      "rank": 98
+    },
+    {
+      "domain": "dotaplabs.net",
+      "rank": 99
+    }
+  ]
+}

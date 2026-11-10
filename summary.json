@@ -1,0 +1,148 @@
+{
+  "totals": {
+    "normal": {
+      "sites": 88,
+      "loaded": 58,
+      "errors": 30,
+      "captcha_detected": 2,
+      "rate": 0.0345,
+      "types": {
+        "none": 48,
+        "captcha_script_only": 8,
+        "challenge_page": 2
+      }
+    },
+    "tor": {
+      "sites": 78,
+      "loaded": 58,
+      "errors": 20,
+      "captcha_detected": 3,
+      "rate": 0.0517,
+      "types": {
+        "none": 47,
+        "captcha_script_only": 8,
+        "challenge_page": 3
+      }
+    }
+  },
+  "by_category": {
+    "social": {
+      "normal": {
+        "detected": 0,
+        "loaded": 9,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 9,
+        "rate": 0.0
+      }
+    },
+    "search": {
+      "normal": {
+        "detected": 0,
+        "loaded": 4,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 3,
+        "rate": 0.0
+      }
+    },
+    "tech_software": {
+      "normal": {
+        "detected": 2,
+        "loaded": 8,
+        "rate": 0.25
+      },
+      "tor": {
+        "detected": 2,
+        "loaded": 9,
+        "rate": 0.2222
+      }
+    },
+    "streaming_media": {
+      "normal": {
+        "detected": 0,
+        "loaded": 5,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 6,
+        "rate": 0.0
+      }
+    },
+    "uncategorized": {
+      "normal": {
+        "detected": 0,
+        "loaded": 23,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 22,
+        "rate": 0.0
+      }
+    },
+    "ecommerce": {
+      "normal": {
+        "detected": 0,
+        "loaded": 1,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 1,
+        "rate": 0.0
+      }
+    },
+    "email_communication": {
+      "normal": {
+        "detected": 0,
+        "loaded": 5,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 5,
+        "rate": 0.0
+      }
+    },
+    "reference_education": {
+      "normal": {
+        "detected": 0,
+        "loaded": 1,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 0,
+        "loaded": 1,
+        "rate": 0.0
+      }
+    },
+    "gaming": {
+      "normal": {
+        "detected": 0,
+        "loaded": 2,
+        "rate": 0.0
+      },
+      "tor": {
+        "detected": 1,
+        "loaded": 2,
+        "rate": 0.5
+      }
+    }
+  },
+  "tor_only": [
+    "epicgames.com"
+  ],
+  "providers": {
+    "normal": {},
+    "tor": {
+      "cloudflare_challenge": 1,
+      "turnstile": 1
+    }
+  }
+}

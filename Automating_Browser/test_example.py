@@ -9,6 +9,8 @@ WEBSITES = [
     "https://playwright.dev/",
     "https://www.wikipedia.org",
     "https://www.reddit.com",
+    "https://trends.builtwith.com/widgets/captcha",
+    "https://www.google.com/recaptcha/api2/demo"
 ]
 
 TOR_PROXY = {
@@ -24,6 +26,10 @@ CAPTCHA_INDICATORS = [
     "are you a robot",
     "cf-challenge",
     "challenge-platform",
+    "human-test-prompt",
+    "Select both images that match",
+    "I'm not a robot",
+    "reCAPTCHA"
 ]
 
 async def check_website(browser, url, condition):
@@ -79,6 +85,7 @@ async def check_website(browser, url, condition):
         await context.close()
 
     return result
+
 
 async def main():
     async with async_playwright() as p:
